@@ -7,6 +7,7 @@ A submission to the Kenney Jam 2025
 import pygame
 from pygame import mixer
 from random import randint
+from sys import exit
 
 playing: bool = False
 
